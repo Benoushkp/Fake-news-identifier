@@ -12,17 +12,8 @@ A **Fake News Identifier** is a machine learning-based application designed to d
 ### Usage 🛠️  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Fake-news-identifier.git
    cd Fake-News-Identifier
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the model:  
-   ```bash
-   python app.py
-   ```
 
 ### Technologies Used 🏗️  
 - **Python** (Pandas, NumPy, Scikit-learn)  
